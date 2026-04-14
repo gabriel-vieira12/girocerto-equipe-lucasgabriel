@@ -1,0 +1,2 @@
+o sistema GiroCerto apresentava algumas falhas de timeout ao realizar requisições para APIS externas
+
