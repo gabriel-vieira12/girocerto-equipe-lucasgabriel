@@ -1,1 +1,3 @@
 Criando feature de rastreamento de entrega
+
+Removido logs do modulo
