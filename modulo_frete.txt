@@ -1,0 +1,5 @@
+Calculando frete a partir dos taxa fixa (Chumbado R$ 10), peso e distância em KM
+
+Corrigindo pois a taxa fixa do calculo do frete, deve alterar conforme a região:
+  - Taxa fixa agora vem de uma tabela do banco de dados para ser um valor dinâmico
+  - Adicionado input no cadastro do frete
