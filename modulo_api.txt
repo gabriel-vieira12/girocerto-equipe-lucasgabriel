@@ -1,0 +1,4 @@
+o sistema GiroCerto apresentava algumas falhas de timeout ao realizar requisições para APIS externas
+
+Soluções:
+  Foi implementado um controle de timeout nas requisições HTTP
